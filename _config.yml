@@ -22,7 +22,7 @@ repository               : "liuyanruc416/liuyanruc416.github.io"  # Target owner
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Anna Yan Liu"
   pronouns         : "she/her"
   bio              : "Ph.D. Candidate in Communication and Media (ABD), University of Illinois Urbana-Champaign"
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "liuyanruc416"
+  github           :
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
