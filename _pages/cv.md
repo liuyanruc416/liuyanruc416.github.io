@@ -9,56 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
+<!--
+============================================================================
+ TODO (Yanru):
+ 1. Put your CV PDF in the  files/  folder, named exactly  cv.pdf
+    (path will be  https://liuyanruc416.github.io/files/cv.pdf ).
+ 2. Fill in the short summary below (or delete the sections you do not
+    want and keep only the PDF download link).
+ Each "======" line under a heading turns it into a section divider.
+============================================================================
+-->
+
+[**Download my full CV (PDF)**](/files/cv.pdf){: .btn .btn--primary}
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* TODO: Ph.D. in Communication / Advertising / Public Relations, *University*, *year (expected)*
+* TODO: M.A. in *Field*, *University*, *year*
+* TODO: B.A. in *Field*, *University*, *year*
 
-Work experience
+Research interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* TODO: interest one
+* TODO: interest two
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Selected publications
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
+<!-- This list is generated automatically from your _publications files. -->
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
+<!-- Generated automatically from your _talks files. -->
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
+<!-- Generated automatically from your _teaching files. -->
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
