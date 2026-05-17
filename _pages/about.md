@@ -7,32 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-<!--
-============================================================================
- TODO (Yanru): Replace everything below with your real bio.
- This is your homepage. Keep it to 2-4 short paragraphs.
- Markdown basics:  **bold**   *italic*   [link text](https://url)
-============================================================================
--->
+I am a Ph.D. candidate in **Communication and Media** (ABD) at the Institute of Communications Research, College of Media, University of Illinois Urbana-Champaign. I am co-advised by Prof. Michelle R. Nelson and Prof. Ewa Maslowska. My dissertation investigates **perceived decontextualization and consumer responses to quantitative data in advertising** (expected completion: April 2027).
 
-I am a Ph.D. candidate in **Communication, Advertising, and Public Relations**
-at *TODO: your university*. *TODO: one sentence on your broad research area —
-e.g., "I study how message framing and emerging media shape persuasion and
-consumer behavior."*
-
-Research interests
+Research Interests
 ======
-<!-- TODO: replace with 3-6 of your actual interests -->
-- TODO: research interest one
-- TODO: research interest two
-- TODO: research interest three
+My research sits at the intersection of strategic communication, persuasion, and emerging technologies:
 
-About me
+- **Data in advertising**: data in message design, persuasion, data and context, consumer data literacy
+- **Emerging technologies**: AI-generated summaries, generative engine optimization, online reviews and social media; AI in information seeking; AI in small business advertising
+- **Mixed methods**: computational (computer vision, machine learning, sentiment analysis, topic modeling), quantitative (experiment, survey, content analysis), qualitative (interview, netnography, focus group, observation)
+
+About Me
 ======
-<!-- TODO: 1-2 short paragraphs: your background, methods, and what you are
-     looking for on the job market. -->
-TODO: A short paragraph about your academic background, the methods you use,
-and the kinds of positions you are seeking.
+Before joining UIUC, I spent five years in marketing and consumer research at Ipsos (China) Consulting Co., Ltd., rising from Research Executive to Senior Research Manager, where I led projects in brand and advertising research, consumer insight, and product innovation across quantitative and qualitative methodologies. This industry background grounds my academic work in real-world advertising and communication practice.
 
-I am on the academic job market this year. You can find my full record on the
-[Publications](/publications/) page and download my [CV](/cv/).
+I hold a Master of Social Science in Advertising from the Chinese University of Hong Kong and a Bachelor of Arts in Journalism from Renmin University of China.
+
+I am on the academic job market. You can find my full record on the [Publications](/publications/) page and download my [CV](/cv/).

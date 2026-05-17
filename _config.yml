@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yanru Liu"                       # TODO: your full name (shows in browser tab + header)
+title                    : "Anna Yan Liu"
 title_separator          : "-"
-name                     : &name "Yanru Liu"                 # TODO: your full name
-description              : &description "Academic personal website of Yanru Liu, Ph.D. candidate in Communication, Advertising & Public Relations"  # TODO: one-line site description
+name                     : &name "Anna Yan Liu"
+description              : &description "Academic personal website of Anna Yan Liu, Ph.D. candidate in Communication and Media at the University of Illinois Urbana-Champaign"
 url                      : https://liuyanruc416.github.io    # Final public URL (works once the repo is owned by liuyanruc416 and public — see HANDOFF.md)
 baseurl                  : ""
 repository               : "liuyanruc416/liuyanruc416.github.io"  # Target owner/repo after transfer — see HANDOFF.md
@@ -22,14 +22,14 @@ repository               : "liuyanruc416/liuyanruc416.github.io"  # Target owner
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"                 # TODO: upload your headshot as images/profile.png (square works best)
-  name             : "Yanru Liu"                   # TODO: your name (left sidebar)
-  pronouns         : # TODO (optional): e.g., "she/her"
-  bio              : "Ph.D. Candidate, Communication, Advertising & Public Relations"  # TODO: short sidebar tagline
-  location         : "TODO: City, Country"
-  employer         : "TODO: Your University"
-  uri              : # TODO (optional): your personal URL
-  email            : "TODO@example.edu"            # TODO: your academic email
+  avatar           : "profile.png"
+  name             : "Anna Yan Liu"
+  pronouns         : "she/her"
+  bio              : "Ph.D. Candidate in Communication and Media (ABD), University of Illinois Urbana-Champaign"
+  location         : "Urbana-Champaign, IL, USA"
+  employer         : "University of Illinois Urbana-Champaign"
+  uri              :
+  email            : "yanliu10@illinois.edu"
 
   # Academic websites
   academia         : # URL
